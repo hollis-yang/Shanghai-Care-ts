@@ -1,5 +1,5 @@
 <template>
-  screen
+  register
 </template>
 
 <script setup lang="ts">

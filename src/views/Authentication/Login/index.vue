@@ -1,5 +1,5 @@
 <template>
-  screen
+  login
 </template>
 
 <script setup lang="ts">

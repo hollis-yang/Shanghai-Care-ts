@@ -1,5 +1,5 @@
 <template>
-  screen
+  home
 </template>
 
 <script setup lang="ts">

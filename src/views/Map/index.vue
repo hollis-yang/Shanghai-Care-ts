@@ -1,5 +1,5 @@
 <template>
-  screen
+  map
 </template>
 
 <script setup lang="ts">

@@ -1,5 +1,5 @@
 <template>
-  screen
+  nursing
 </template>
 
 <script setup lang="ts">
