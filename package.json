@@ -17,6 +17,8 @@
     "echarts": "^5.4.3",
     "element-plus": "^2.5.3",
     "pinia": "^2.1.7",
+    "sass": "^1.70.0",
+    "sass-loader": "^14.0.0",
     "vue": "^3.3.11",
     "vue-router": "^4.2.5"
   },

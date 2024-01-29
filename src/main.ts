@@ -6,6 +6,9 @@ import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 
+// 引入样式重置
+import '@/styles/reset.scss'
+
 const pinia = createPinia()
 const app = createApp(App)
 
